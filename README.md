@@ -6,7 +6,7 @@ Run commands one by one
 
 git clone https://github.com/Ryderhxrzy/Facebook-BR
 
-cd Facebook-BruteForce
+cd Facebook-BR
 
 python3 -m pip install requests bs4
 
