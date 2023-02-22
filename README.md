@@ -1,10 +1,10 @@
-# Facebook-Bruteforce
+# Facebook-BR
 
 >> apt-get install git python3 python3-pip python python-pip
 
 Run commands one by one
 
-git clone https://github.com/Ryderhxrzy/Facebook-BruteForce
+git clone https://github.com/Ryderhxrzy/Facebook-BR
 
 cd Facebook-BruteForce
 
